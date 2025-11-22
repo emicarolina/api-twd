@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Rick Grimes",
+      "status": "alive",
+      "firstAppeared": 1,
+      "photo": "https://example.com/rick.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Daryl Dixon",
+      "status": "alive",
+      "firstAppeared": 1,
+      "photo": "https://example.com/daryl.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lori Grimes",
+      "status": "deceased",
+      "firstAppeared": 1,
+      "photo": "https://example.com/lori.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "season": 1,
+      "number": 1,
+      "title": "Days Gone Bye",
+      "summary": "Rick wakes up..."
+    },
+    {
+      "id": 2,
+      "season": 1,
+      "number": 2,
+      "title": "Guts",
+      "summary": "Rick meets..."
+    }
+  ]
+}
